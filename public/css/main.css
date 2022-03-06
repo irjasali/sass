@@ -179,7 +179,7 @@
 }
 
 body {
-  background-color: #69ff2e;
+  background-color: #ffe92e;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -204,7 +204,7 @@ h3 {
   width: 90%;
   padding: 50px;
   box-shadow: 0 0 20px 2px 0, 0, 0, 0.1;
-  background-image: url(./img/fondobg.jpg);
+  background-image: url(/img/fondobg.jpg);
   background-size: 100% 100%;
   border-radius: 5%;
 }
@@ -256,4 +256,4 @@ header nav {
   font-weight: bolder;
 }
 
-/*# sourceMappingURL=main.css.map */
+
